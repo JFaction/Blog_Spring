@@ -1,4 +1,4 @@
-# Blog feito em Java usando Spring #
+# Blog feito na linguagem Java usando Spring Boot #
 
 Neste projeto foi feito um blog na linguagem Java com Spring boot e foi usado o framework Thymeleaf para criação das páginas HTML.
 
